@@ -1,5 +1,7 @@
+![alt text](https://github.com/afraniogazolla/validadeGestacaoDeEquinos/blob/main/image.jpg)
 # Calculadora de Validade de Gestao de Equinos
-Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, [abra uma issue](https://github.com/iuricode/recursos-gratuitos/issues/new).
+
+Este é um pequeno projeto pessoal que disponibilizo para todos os criadores e inspetores, para facilitar calculos de gestacao no dia a dia. Apesar do programa ser super simples, eh de altissima utilidade para a eficiencia do trabalho e tomada de decisao no registro dos animais.
 
 ## Como Utilizar ?
 1. Instale o Python em seu computador.
