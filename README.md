@@ -1,5 +1,5 @@
 ![alt text](https://github.com/afraniogazolla/validadeGestacaoDeEquinos/blob/main/image.jpg)
-# Calculadora de Validade de Gestao de Equinos
+# Calculadora de Validade de Gestação de Equinos
 
 Este é um pequeno projeto pessoal que disponibilizo para todos os criadores e inspetores, para facilitar calculos de gestacao no dia a dia. Apesar do programa ser super simples, eh de altissima utilidade para a eficiencia do trabalho e tomada de decisao no registro dos animais.
 
